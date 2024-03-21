@@ -15,12 +15,6 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-})-> name('home');
-Route::get('/smktelkompwt', function () {
-    return view('smktelkompwt');
-})-> name('masuk');
+
 
 Route::get('/dashboard', [DashboardController::class,'index']);
-Route::get('/pelanggan', [PelangganController::class,'index']);
