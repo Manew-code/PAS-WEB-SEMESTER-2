@@ -1,66 +1,32 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+## Rental Mobil
+Website rental mobil kami menawarkan kemudahan akses yang luar biasa, memungkinkan Anda untuk dengan cepat dan mudah memesan kendaraan yang Anda butuhkan kapan saja dan di mana saja. Dengan antarmuka yang user-friendly dan sistem reservasi yang efisien, Anda dapat menemukan dan memesan mobil pilihan Anda hanya dalam beberapa klik. Selain itu, kami menawarkan harga yang sangat bersahabat, memastikan bahwa Anda mendapatkan nilai terbaik untuk setiap perjalanan. Berkomitmen untuk memberikan layanan berkualitas tinggi dengan biaya terjangkau, kami adalah pilihan tepat bagi Anda yang menginginkan kemudahan dan kenyamanan dalam menyewa mobil.
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+## Fitur - fitur aplikasi Rental Mobil
+1. Login dan Register
+Di dalam webiste ini terdapat login dan register untuk pengguna
+2. Pesan dan Pilih Mobil
+Fitur "Pesan dan Pilih Mobil" pada website kami dirancang untuk memberikan Anda fleksibilitas dan kemudahan dalam memilih kendaraan yang sesuai dengan kebutuhan dan preferensi Anda. Dengan fitur ini, Anda dapat dengan cepat melihat berbagai pilihan mobil yang tersedia, lengkap dengan informasi detail seperti tipe, kapasitas, dan harga. Setelah menemukan mobil yang cocok, Anda dapat langsung memesan melalui sistem kami yang intuitif dan mudah digunakan. Proses pemesanan yang cepat dan efisien memastikan bahwa Anda dapat segera mengamankan mobil pilihan Anda tanpa kerumitan. Fitur ini memberikan kenyamanan maksimal, menjadikan pengalaman menyewa mobil menjadi lebih mudah dan menyenangkan.
+3.  Kategori Rental Mobil 
+Fitur "Kategori Rental Mobil" kami memberikan Anda pilihan yang beragam untuk memenuhi berbagai kebutuhan dan preferensi. Dengan kategori yang jelas dan terstruktur, Anda dapat dengan mudah menemukan mobil yang sesuai dengan keinginan Anda:
 
-## About Laravel
+1. **Low Rent**: Kategori ini menawarkan berbagai pilihan mobil dengan harga terjangkau, ideal untuk Anda yang mencari solusi transportasi ekonomis tanpa mengorbankan kenyamanan dan kualitas.
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+2. **Fast Car**: Untuk Anda yang menginginkan kendaraan dengan performa tinggi dan kecepatan optimal, kategori Fast Car menyediakan mobil-mobil sport dan premium yang mampu memberikan pengalaman berkendara yang dinamis dan memuaskan.
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+3. **Safe Car**: Prioritaskan keamanan dengan pilihan mobil di kategori Safe Car. Semua mobil dalam kategori ini dilengkapi dengan fitur keselamatan terbaru dan telah melalui pemeriksaan ketat untuk memastikan keamanan maksimal selama perjalanan Anda.
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+4. **Quick Support**: Nikmati kenyamanan ekstra dengan kategori Quick Support, yang menyediakan layanan pelanggan cepat dan responsif. Kategori ini memastikan bahwa setiap kebutuhan dan masalah Anda ditangani dengan segera, memberikan Anda ketenangan pikiran selama menyewa mobil.
 
-## Learning Laravel
+Dengan fitur "Kategori Rental Mobil" ini, Anda dapat dengan mudah menemukan dan memilih kendaraan yang sesuai dengan kebutuhan spesifik Anda, menjadikan pengalaman menyewa mobil lebih mudah dan memuaskan.
+5. Kolom Untuk Mengirim Pesan
+Fitur "Kolom Untuk Mengirim Pesan" pada website rental mobil kami dirancang untuk memudahkan Anda dalam berkomunikasi dengan tim kami. Dengan antarmuka yang sederhana dan mudah digunakan, Anda dapat dengan cepat mengirim pesan terkait pertanyaan, permintaan khusus, atau umpan balik. Berikut adalah elemen-elemen yang perlu Anda isi:
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+1. **Nama**: Masukkan nama lengkap Anda untuk memudahkan kami dalam mengenali dan menyapa Anda dengan lebih personal.
+2. **Nomor HP**: Sertakan nomor handphone Anda agar kami dapat menghubungi Anda dengan cepat dan efisien, terutama untuk tanggapan segera atau informasi penting.
+3. **Email**: Masukkan alamat email Anda sebagai alternatif komunikasi dan untuk menerima balasan atau informasi tertulis dari kami.
+4. **Pesan**: Tulis pesan Anda di kolom ini, berisi pertanyaan, permintaan khusus, atau umpan balik yang ingin Anda sampaikan kepada tim kami.
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+Setelah mengisi semua kolom, cukup klik tombol kirim, dan pesan Anda akan segera diterima oleh tim kami. Fitur ini memastikan bahwa komunikasi antara Anda dan kami berjalan lancar dan efektif, membantu kami memberikan layanan yang lebih baik dan responsif sesuai kebutuhan Anda.
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
 
-## Laravel Sponsors
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
-
-### Premium Partners
-
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[WebReinvent](https://webreinvent.com/)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Jump24](https://jump24.co.uk)**
-- **[Redberry](https://redberry.international/laravel/)**
-- **[Active Logic](https://activelogic.com)**
-- **[byte5](https://byte5.de)**
-- **[OP.GG](https://op.gg)**
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
